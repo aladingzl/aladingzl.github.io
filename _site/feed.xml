@@ -1,53 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dzl Blog</title>
+    <title>aladingzl Blog</title>
     <description>FE | aladingzl | 这里是 @aladingzl 的个人博客</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Jan 2022 12:12:55 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Jan 2022 12:12:55 +0800</lastBuildDate>
+    <pubDate>Mon, 24 Jan 2022 17:00:58 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Jan 2022 17:00:58 +0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
-    
-      <item>
-        <title>中国高等教育的系统性失败</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;该回答在知乎问题&lt;a href=&quot;https://www.zhihu.com/question/439622084/answer/1685314467&quot;&gt;「如何评价上海交通大学 18 级计算机系第一名「迟先生」的言论？」&lt;/a&gt; 下无原因被夹。
-询问我的「专属小管家」多次后仍然给不出任何原因与具体修改意见，自己多次尝试小幅修改无果，干脆直接将原文发上来吧。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;高票 &lt;a href=&quot;https://www.zhihu.com/question/439622084/answer/1681505518&quot;&gt;@Youngster38324 的回答&lt;/a&gt;透露出来的本质上是「&lt;strong&gt;中国高等教育的系统性失败&lt;/strong&gt;」，逐层来看:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;「&lt;strong&gt;进大学前唯分数和同质化教育&lt;/strong&gt;」导致了太多人去大学后根本不知道自己要干嘛，很多人专业根本就不是自己选的更不要说知道自己有没有兴趣了，即便是很多高分考生也路径依赖地以为继续努力填鸭就能成功，没有意识到高考后的人生已经换赛道了。这里对比美国高中生的 AP（Advanced Placement）预科制度以及整体社会鼓励向自我发展看而不是向钱看的风气。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;「&lt;strong&gt;进大学后专业制度没有容错性&lt;/strong&gt;」，即便已经发现自己不喜欢被录取专业了也没有办法，因为转专业制度毫无人性（通常要求你先要在你已经不喜欢了的本专业内卷到班级前多少名）。对比美国本科，专业可以 undecided（先上课再决定专业，比如经典的哈佛 CS50，你上下来感兴趣了再去选 CS）；学位本身只是某个学科下课程学分累计的自然结果，因此可以灵活的转专业与多学位；班级这种促进内卷的概念被弱化，强调跟自己比关注个人的成长，学生自己控制上几年课，念几个学位，中间休学一下都没关系。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;前两步的结果就是导致大学为了毕业率把「&lt;strong&gt;评判标准搞成了大锅饭平均主义&lt;/strong&gt;」，为了能够每年顺利向社会输送一批（80% 将来都不会从事本专业）的人才，打分根据每年学生情况动态规划自适应，把大学搞成了「严进宽出」。相反美国的大学教育强调「宽进严出」，无论你底子如何，无论重修几次，你只要通过了某个（相对稳定的）客观标准就是合格，为了保证该制度的机械性运作，辅以严格的日常作业计分，对「作弊」零容忍（自动化判重，发现一次重修两次退学）。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;平均主义进一步导致「&lt;strong&gt;课程设置没有灵活性无法自定义&lt;/strong&gt;」，老师不但要照顾及格率还有一颗圣母心希望那些对专业没什么兴趣的人能好歹学到点东西，同时又真心欣赏且想要给予好学的尖子生资源，最后即便绞尽脑汁了也还是只能弄出个在差生里下限高在尖子生里上限低的课程安排两面不当人 —— 尖子生觉得课程要求太低不能激发自己的潜力喂不饱（常见于私下要求加难度或者去无学分旁听），摸鱼的觉得老师影响了我的快乐学习（常见于课堂上一布置作业下面就叫苦连天）该挂还是挂或者 60 分万岁。对比美国，学生的课程表可以自行安排，通常一个课会开多个班次照顾灵活性，学霸可以比别人多上任意节课，也可以跨专业选课或者减少课程增加实习或研究，而且难度自选只要你点过前置技能就行。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;有类似迟先生这样诉求的人很多，可是一个系统很难由系统内的个体改变，所以很多个体选择了做局部优化趋利避害陪玩成为既得利益者，或者全局优化更换自己所处的系统。&lt;/p&gt;
-
-&lt;p&gt;只要所处系统里的大部分个体都已经默许了这个游戏规则，无论迟先生是「凡尔赛」还是「理想主义」，改变赛道规则就会被其他个体认为侵害到利益。小孩才分对错，成年人的屁股都是歪得，都是各取所需。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;都是这个时代的缩影。&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 19 Jan 2021 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/01/19/the-systematic-failure-of-higher-education-in-china/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/19/the-systematic-failure-of-higher-education-in-china/</guid>
-        
-        <category>被夹</category>
-        
-        
-      </item>
     
       <item>
         <title>My Programming Languages Spectrum</title>
@@ -57,49 +17,6 @@
         <pubDate>Tue, 05 May 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2020/05/05/pl-chart/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/05/05/pl-chart/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Peter John Landin</title>
-        <description>&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Peter_Landin&quot;&gt;wiki&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81&quot;&gt;维基&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I was long curious about how does λ calculus become the foundation of formalizaing programming languages. It’s strange that I haven’t look up the answer until today: It’s invented so early by Alonzo Church (whom I will write another post for) as an alternative mathematic foundation in 1930s and its relation with programming language was re-discoverred in 1960s.&lt;/p&gt;
-
-&lt;p&gt;From the “Lambda calculus and programming languages” section of wikipedia page:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As pointed out by Peter Landin’s 1965 paper “A Correspondence between ALGOL 60 and Church’s Lambda-notation”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I found this name quite familiar since I read his paper “The mechanical evaluation of expressions” before, in which he introduced the first abstract machine for functional programming language, namely &lt;a href=&quot;https://en.wikipedia.org/wiki/SECD_machine&quot;&gt;SECD machine&lt;/a&gt;. This paper also define the term &lt;a href=&quot;https://en.wikipedia.org/wiki/Closure_(computer_programming)&quot;&gt;Closure&lt;/a&gt; which becomes a prevalent notion in computer programming nowadays.&lt;/p&gt;
-
-&lt;p&gt;Besides of that, his contributions also include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;on ALGO definition&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/ISWIM&quot;&gt;ISWIM&lt;/a&gt; programming language&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Off-side_rule&quot;&gt;off-side rule&lt;/a&gt;, known as “indentation-based” syntax nowadays, popularized by Miranda, Haskell, Python, etc.&lt;/li&gt;
-  &lt;li&gt;coin the term &lt;a href=&quot;https://en.wikipedia.org/wiki/Syntactic_sugar&quot;&gt;syntactic sugar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;He was much influenced by a study of McCarthy’s LISP and taught &lt;a href=&quot;https://en.wikipedia.org/wiki/Tony_Hoare&quot;&gt;Tony Hoare&lt;/a&gt; ALGO with Peter Naur and Edsger W. Dijkstra. (Oh yes, definitely 4 more people to write).&lt;/p&gt;
-
-&lt;p&gt;I have just download his old, influential paper “The next 700 programming languages”. 
-I am sure it will be an enjoyable read.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 13 Sep 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/09/13/peter-john-landin/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/13/peter-john-landin/</guid>
-        
-        <category>CS Idols</category>
         
         
       </item>
@@ -2071,6 +1988,732 @@ stack:
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/01/12/sf-lf-12-imp/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/12/sf-lf-12-imp/</guid>
+        
+        <category>LF (逻辑基础)</category>
+        
+        <category>SF (软件基础)</category>
+        
+        <category>Coq</category>
+        
+        <category>笔记</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>「SF-LC」11 Rel</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;relation 与injective/surjective/bijective function 等相关的知识在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;5. Tactics&lt;/code&gt; 里，为了避免每次都要 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grep&lt;/code&gt; 我在这里写一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;relations&quot;&gt;Relations&lt;/h2&gt;
+
+&lt;h3 id=&quot;recalling-relation&quot;&gt;Recalling &lt;a href=&quot;https://en.wikipedia.org/wiki/Finitary_relation&quot;&gt;Relation&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;from FCT/TAPL/Wiki…&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;a possible connection between the components of a k-tuple.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have been long confused with &lt;em&gt;Unary Relations vs. Binary Relation on the Same Set (homogeneous relation)&lt;/em&gt;
+I thought they were same…but turns out they are totally different!&lt;/p&gt;
+
+&lt;h4 id=&quot;unary1-place-relation-is-predicate-or-property&quot;&gt;Unary/1-place relation is &lt;strong&gt;Predicate&lt;/strong&gt; or &lt;strong&gt;Property&lt;/strong&gt;!&lt;/h4&gt;
+
+&lt;p&gt;Either defined via set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X ⊆ P&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x ∈ P&lt;/code&gt;,
+or defined via function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P : X -&amp;gt; Bool&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P : X -&amp;gt; {⊥, ⊤}&lt;/code&gt;.
+(usually used in Math. Logic)&lt;/p&gt;
+
+&lt;p&gt;Property = Indicator Fn = characteristic Fn = Boolean Predicate Fn = Predicate&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Property_(mathematics)&quot;&gt;https://en.wikipedia.org/wiki/Property_(mathematics)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Indicator_function&quot;&gt;https://en.wikipedia.org/wiki/Indicator_function&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;binary-relation2-place-relation&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Binary_relation&quot;&gt;Binary Relation/2-place relation&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Defined via two sets : &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R ⊆ X × Y&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x, y ∈ R&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xRy&lt;/code&gt;.  (where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x ∈ X, y ∈ Y&lt;/code&gt;.)
+or via function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R: X × Y -&amp;gt; Bool&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h5 id=&quot;homogeneous-relation-同类的关系&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Binary_relation#Homogeneous_relation&quot;&gt;Homogeneous Relation 同类（的）关系&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Specifically! when &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X = Y&lt;/code&gt;, is called a &lt;em&gt;homogeneous relation&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;Noticed that we are still concerning relations of &lt;strong&gt;2 elements&lt;/strong&gt;!!, but they are from the same Set!
+(while 1-place relation concerning only 1 element.)&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;R ⊆ X × X
+xRy where x ∈ X, y ∈ X
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;it’s written/spoken &lt;em&gt;Binary&lt;/em&gt; relation &lt;strong&gt;on/over&lt;/strong&gt; Set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt;. 
+Properties e.g. &lt;em&gt;reflexive, symmetric, transitive&lt;/em&gt;, are all properties of “Homogeneous Relation”!&lt;/p&gt;
+
+&lt;h3 id=&quot;back-to-coq&quot;&gt;Back to Coq&lt;/h3&gt;
+
+&lt;p&gt;“relation” is a general idea. but in Coq standard lib it means “binary relation on &lt;em&gt;a&lt;/em&gt; set X”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Coq &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;identifier&lt;/code&gt; relation will always refer to a binary relation between some set and itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;it’s defined as &lt;em&gt;a family of Prop parameterized by two elements of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt;&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Check&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Check&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;basic-properties&quot;&gt;Basic Properties&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ways to classifying relations.
+so theorems can be proved generically about certain sorts of relations&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s pretty fun to see all mathematical things defined in Coq!
+(much more constructive)&lt;/p&gt;
+
+&lt;h3 id=&quot;partial-function&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Partial_function&quot;&gt;Partial Function&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;function is defined as &lt;em&gt;a special kind of binary relation&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;partial_function&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y2&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;meaning that foreach input &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x ∈ X&lt;/code&gt;, there is a &lt;em&gt;unique&lt;/em&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;y ∈ Y&lt;/code&gt; corresponded.&lt;/p&gt;
+
+&lt;p&gt;But this only establish a &lt;em&gt;partial function&lt;/em&gt;. 
+because it doesn’t say anything about &lt;em&gt;totality&lt;/em&gt;,
+to define &lt;em&gt;total function&lt;/em&gt;, we require &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f&lt;/code&gt; map every &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x ∈ X&lt;/code&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Connex_relation&quot;&gt;Total “Relation”&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;∀x ∀y (x ∈ X ∧ y ∈ X) ⇒ (xRy ∨ yRx).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;totally different with &lt;em&gt;total function&lt;/em&gt; but ask the binary relation holds between every pair.&lt;/p&gt;
+
+&lt;h3 id=&quot;reflexive&quot;&gt;Reflexive&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;transitive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;transitive&quot;&gt;Transitive&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;transitive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;symmetric--antisymmetric&quot;&gt;Symmetric &amp;amp; Antisymmetric&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;symmetric&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;antisymmetric&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;antisymmetric-vs-asymmetric-vs-non-symmetric-反对称-vs-非对称-vs-不-对称&quot;&gt;Antisymmetric vs Asymmetric vs Non-symmetric (反对称 vs. 非对称 vs. 不-对称)&lt;/h4&gt;
+
+&lt;p&gt;A relation is &lt;strong&gt;asymmetric&lt;/strong&gt; if and only if it is both antisymmetric and irreflexive
+e.g. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;=&lt;/code&gt; is neither symmetric nor asymmetric, but it’s antisymmetric…
+反对称: 可以自反 (只能 reflexive 时对称) &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;=&lt;/code&gt;
+非对称: 不能自反 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;&lt;/code&gt;
+不对称: 不是对称&lt;/p&gt;
+
+&lt;h3 id=&quot;equivalence&quot;&gt;Equivalence&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;equivalence&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;reflexive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∧&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;symmetric&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∧&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;transitive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;partial-orders&quot;&gt;Partial Orders&lt;/h3&gt;
+
+&lt;p&gt;A partial order under which &lt;em&gt;every pair&lt;/em&gt; of elements is &lt;em&gt;comparable&lt;/em&gt; is called a &lt;strong&gt;total order&lt;/strong&gt; or &lt;strong&gt;linear order&lt;/strong&gt;
+In the Coq standard library it’s called just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;order&lt;/code&gt; for short:&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;order&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;reflexive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∧&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;antisymmetric&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∧&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;transitive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;preorders&quot;&gt;Preorders&lt;/h3&gt;
+
+&lt;p&gt;a.k.a quasiorder&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;subtyping&lt;/em&gt; relations are usually preorders.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;(TAPL p185) because of the record permutation rule…there are many pairs of distinct types where each is a subtype of the other.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Definition&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;preorder&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;reflexive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∧&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;transitive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;reflexive-transitive-closure&quot;&gt;Reflexive, Transitive Closure&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Closure_(mathematics)#Binary_relation_closures&quot;&gt;Closure&lt;/a&gt;
+Closure can be considered as &lt;a href=&quot;https://en.wikipedia.org/wiki/Binary_relation#Operations_on_binary_relations&quot;&gt;Operations on bin-rel&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As properties such as &lt;em&gt;reflexive, transitive&lt;/em&gt;, 
+the &lt;strong&gt;blah blah Closure&lt;/strong&gt; are only talking about “homogeneous relations” i.e., Relation on a SINGLE set.&lt;/p&gt;
+
+&lt;h3 id=&quot;reflexive-closure&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Reflexive_closure&quot;&gt;Reflexive Closure&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Def. smallest reflexive relation on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt; containing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Operationally, as a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;=&lt;/code&gt; operator on a binary relation &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;R⁼ = R ∪ { (x, x) | x ∈ X }
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;and this obviously satisfy &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R⁼ ⊇ R&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;transitive-closure&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Transitive_closure&quot;&gt;Transitive Closure&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Def. smallest transitive relation on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt; containing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Operationally, as a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt; operator on a binary relation &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;R+ = R ∪ { (x1,xn) | n &amp;gt; 1 ∧ (x1,x2), ..., (xn-1,xn) ∈ R }
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We can also constructively and inductively definition using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R^i&lt;/code&gt; where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;i = i-transitivity away&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reflexive-transitive-closure-1&quot;&gt;Reflexive, Transitive Closure&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;R* = R⁼ ∪ R+
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;why-is-it-useful&quot;&gt;Why is it useful?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The idea is that &lt;em&gt;a relation is extended&lt;/em&gt; s.t. 
+&lt;em&gt;the derived relation has the (reflexsive and) transitive property.&lt;/em&gt; – Prof. Arthur&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;e.g.
+the “descendant” relation is the transitive closure of the “child” relation, 
+the “derives-star (⇒⋆)” relation is the reflexive-transitive closure of the “derives (⇒)” relation.
+the “ε-closure” relation is the reflexive-transitive closure of the “ε-transition” relation.
+the “Kleene-star (Σ⋆)” relation is the reflexive-transitive closure of the “concatentation” relation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Another way is to think them as “set closed under some operation”.&lt;/p&gt;
+
+&lt;h3 id=&quot;back-to-coq-1&quot;&gt;Back to Coq&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;rt_step&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;H&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;        &lt;/span&gt;&lt;span class=&quot;c&quot;&gt;(** original relation **)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;rt_refl&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;                      &lt;/span&gt;&lt;span class=&quot;c&quot;&gt;(** reflexive  xRx              **)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;rt_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;                                         &lt;/span&gt;&lt;span class=&quot;c&quot;&gt;(** transitive xRy ∧ yRz → xRz  **)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Hxy&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Hyz&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The above version will generate 2 IHs in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rt_trans&lt;/code&gt; case. (since the proof tree has 2 branches).&lt;/p&gt;
+
+&lt;p&gt;Here is a better “linked-list”-ish one. (we will exclusively use this style)&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans_1n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;rt1n_refl&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans_1n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;rt1n_trans&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Hxy&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;   &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+      &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Hrest&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans_1n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;clos_refl_trans_1n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In later chapter, we will define a decorator &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;multi&lt;/code&gt; that can take any binary relation on a set and return its closure relation:&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;multi&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;relation&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;multi_refl&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;forall&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;     &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;                         &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;multi&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;multi_step&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;forall&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;multi&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;multi&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We name it &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;step&lt;/code&gt;, standing for &lt;em&gt;doing one step of this relation&lt;/em&gt;, and then we still have the rest (sub-structure) satisfied the closure relation.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/01/11/sf-lf-11-rel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/11/sf-lf-11-rel/</guid>
+        
+        <category>LF (逻辑基础)</category>
+        
+        <category>SF (软件基础)</category>
+        
+        <category>Coq</category>
+        
+        <category>笔记</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>「SF-LC」10 IndPrinciples</title>
+        <description>&lt;h2 id=&quot;basic&quot;&gt;Basic&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;每次我们使用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Inductive&lt;/code&gt; 来声明数据类型时，Coq 会自动为这个类型生成 &lt;em&gt;归纳原理&lt;/em&gt;。
+Every time we declare a new &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Inductive&lt;/code&gt; datatype, Coq automatically generates an &lt;em&gt;induction principle&lt;/em&gt; for this type.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;自然数的归纳原理:&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Check&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat_ind&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;written as inference rule:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;                    P 0
+  ∀ n : nat, P n -&amp;gt; P (S n)
+  -------------------------
+  ∀ n : nat,        P n
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction&lt;/code&gt; tactic is wrapper of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;apply t_ind&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Coq 为每一个 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Inductive&lt;/code&gt; 定义的数据类型生成了归纳原理，包括那些非递归的
+Coq generates induction principles for every datatype defined with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Inductive&lt;/code&gt;, including those that aren’t recursive.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;尽管我们不需要使用归纳来证明非递归数据类型的性质
+Although of course we don’t need induction to prove properties of non-recursive datatypes. (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;destruct&lt;/code&gt; would be sufficient)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;归纳原理的概念仍然适用于它们： 它是一种证明一个对于这个类型所有值都成立的性质的方法。
+the idea of an induction principle still makes sense for them: it gives a way to prove that a property holds for all values of the type.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;non-recursive&quot;&gt;Non-recursive&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yesno&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;no&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Check&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yesno_ind&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yesno_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yesno&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yes&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;no&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;   &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;yesno&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;             P yes 
+             P no
+------------------
+∀ y : yesno, P y 
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;structural-recursive&quot;&gt;Structural-Recursive&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nnil&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ncons&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Check&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist_ind&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nnil&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ncons&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;natlist&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;                                  P nnil 
+∀ (n : nat) (l : natlist), P l -&amp;gt; P (ncons n l)
+-----------------------------------------------
+∀ l : natlist,                    P l 
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; only need to fullfill &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;l : the_type&lt;/code&gt; but not &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n:nat&lt;/code&gt; since we are proving property of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;the_type&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-pattern&quot;&gt;The Pattern&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;These generated principles follow a similar pattern.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;induction on each cases&lt;/li&gt;
+    &lt;li&gt;proof by exhaustiveness?&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;a1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;xn&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;an&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;cn&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;t_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+              &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;case&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+              &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;case&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;c2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+              &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;case&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;cn&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+              &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;对于 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t&lt;/code&gt; 的归纳原理是又所有对于 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;c&lt;/code&gt; 的归纳原理所组成的: （即所有 case 成立)&lt;/p&gt;
+
+&lt;p&gt;对于 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;c&lt;/code&gt; 的归纳原理则是&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;对于所有的类型为 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a1...an&lt;/code&gt; 的值 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x1...xn&lt;/code&gt;，如果 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; 对每个 归纳的参数（每个具有类型 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t&lt;/code&gt; 的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xi&lt;/code&gt;）都成立，那么 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; 对于 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;c x1 ... xn&lt;/code&gt; 成立”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;每个具有类型 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;t&lt;/code&gt; 的参数的地方即发生了「递归」与「子结构」，归纳假设 = 「对子结构成立」.&lt;/p&gt;
+
+&lt;h2 id=&quot;polymorphism&quot;&gt;Polymorphism&lt;/h2&gt;
+
+&lt;p&gt;接下来考虑多态列表：&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c&quot;&gt;(* in ADT syntax *)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;cons&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+
+&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;(* in GADT syntax *)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;cons&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;here, the whole def is &lt;em&gt;parameterized&lt;/em&gt; on a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;set X&lt;/code&gt;: that is, we are defining a &lt;em&gt;family&lt;/em&gt; of inductive types &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list X&lt;/code&gt;, one for each &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这里，整个定义都是被集合 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt; &lt;em&gt;参数化_的： 
+也即，我们定义了一个族 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list : X -&amp;gt; Type&lt;/code&gt;, 对于每个 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt;，我们都有一个对应的_项&lt;/em&gt;: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list X&lt;/code&gt;, which is a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Type&lt;/code&gt;, 可写作 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list X : Type&lt;/code&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list_ind&lt;/code&gt; can be thought of as a polymorphic function that, 
+when applied to a type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt;, gives us back an induction principle specialized to the type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list X&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;因此，其归纳定理 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list_ind&lt;/code&gt; 是一个被 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt; 参数化多态的函数。
+当应用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X : Type&lt;/code&gt; 时，返回一个特化在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list X : Type&lt;/code&gt; 上的归纳原理&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;no&quot;&gt;list_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;∀(X : Type), {
+
+                           P []                   -- base structure holds
+    ∀(x : X) (l : list X), P l → P (x :: l)       -- sub-structure holds -&amp;gt; structure holds
+    ---------------------------------------
+    ∀l : list X,           P l                    -- all structure holds
+
+}
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;induction-hypotheses-归纳假设&quot;&gt;Induction Hypotheses 归纳假设&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The induction hypothesis is the &lt;em&gt;premise&lt;/em&gt; of this latter implication 
+— the assumption that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; holds of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&apos;&lt;/code&gt;, which we are allowed to use in proving that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; holds for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;S n&apos;&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;归纳假设就是 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P n&apos; -&amp;gt; P (S n&apos;)&lt;/code&gt; 这个蕴含式中的前提部分&lt;/em&gt;
+使用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat_ind&lt;/code&gt; 时需要显式得用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intros n IHn&lt;/code&gt; 引入，于是就变成了 proof context 中的假设.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-on-the-induction-tactic&quot;&gt;More on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction&lt;/code&gt; Tactic&lt;/h2&gt;
+
+&lt;h3 id=&quot;re-generalize-重新泛化&quot;&gt;“Re-generalize” 重新泛化&lt;/h3&gt;
+
+&lt;p&gt;Noticed that in proofs using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat_ind&lt;/code&gt;, we need to keep &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; generailzed. 
+if we &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intros&lt;/code&gt; particular &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; first then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;apply nat_ind&lt;/code&gt;, it won’t works…&lt;/p&gt;
+
+&lt;p&gt;But we could &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intros n. induction n.&lt;/code&gt;, that’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction&lt;/code&gt; tactic internally “re-generalize” the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; we perform induction on.&lt;/p&gt;
+
+&lt;h3 id=&quot;automatic-intros-ie-specialize-variables-before-the-variable-we-induction-on&quot;&gt;Automatic &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;intros&lt;/code&gt; i.e. specialize variables before the variable we induction on&lt;/h3&gt;
+
+&lt;p&gt;A canonical case is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction n&lt;/code&gt; vs &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction m&lt;/code&gt; on theorem &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;plus_comm&apos;&apos; : ∀n m : nat, n + m = m + n.&lt;/code&gt;.
+to keep a var generial…we can either change variable order under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;∀&lt;/code&gt;, or using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;generalize dependent&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;induction-principles-in-prop&quot;&gt;Induction Principles in Prop&lt;/h2&gt;
+
+&lt;h3 id=&quot;理解依赖类型的归纳假设-与-coq-排除证据参数的原因&quot;&gt;理解依赖类型的归纳假设 与 Coq 排除证据参数的原因&lt;/h3&gt;
+
+&lt;p&gt;除了集合 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Set&lt;/code&gt;，命题 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Prop&lt;/code&gt; 也可以是归纳定义与 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction&lt;/code&gt; on 得.
+难点在于：&lt;em&gt;Inductive Prop&lt;/em&gt; 通常是 dependent type 的，这里会带来复杂度。&lt;/p&gt;
+
+&lt;p&gt;考虑命题 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;even&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ev_0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ev_SS&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;我们可以猜测一个最 general 的归纳假设：&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;no&quot;&gt;ev_ind_max&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;O&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ev_0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ev_SS&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;E&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;即:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;                                   P 0 ev_0                    -- base 
+  ∀(m : nat) (E : even m), P m E → P (S (S m)) (ev_SS m E)     -- sub structure -&amp;gt; structure
+  --------------------------------------------------------
+  ∀(n : nat) (E : even n),         P n E                       -- all structure
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;注意这里:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;even&lt;/code&gt; is &lt;em&gt;indexed&lt;/em&gt; by nat &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; (对比 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;list&lt;/code&gt; is &lt;em&gt;parametrized&lt;/em&gt; by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;从族的角度:  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;even : nat -&amp;gt; Prop&lt;/code&gt;, a family of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Prop&lt;/code&gt; indexed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;从实体角度: 每个 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E : even n&lt;/code&gt; 对象都是一个 evidence that &lt;em&gt;particular nat is even&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;要证的性质 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; is parametrized by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E : even n&lt;/code&gt; 也因此连带着 by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt;. 也就是 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P : (∀n : nat, even n → Prop)&lt;/code&gt;  (对比 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P : list X → Prop&lt;/code&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;所以其实关于 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;even n&lt;/code&gt; 的性质是同时关于数字 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; 和证据 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;even n&lt;/code&gt; 这两件事的.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;因此 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sub structure -&amp;gt; structure&lt;/code&gt; 说得是：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;whenever &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; is an even number and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E&lt;/code&gt; is an evidence of its evenness, if &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; holds of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E&lt;/code&gt;, then it also holds of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;S (S n)&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ev_SS n E&lt;/code&gt;.
+对于任意数字 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; 与证据 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E&lt;/code&gt;，如果 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; 对 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;/code&gt; 和 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E&lt;/code&gt; 成立，那么它也对 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;S (S n)&lt;/code&gt; 和 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ev_SS n E&lt;/code&gt; 成立。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;然而，当我们 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;induction (H : even n)&lt;/code&gt; 时，我们通常想证的性质并不包括「证据」，而是「满足该性质的这 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Type&lt;/code&gt; 东西」的性质, 
+比如:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat&lt;/code&gt; 上的一元关系 (性质)    证明 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat&lt;/code&gt; 的性质          :  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ev_even : even n → ∃k, n = double k&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat&lt;/code&gt; 上的二元关系           证明 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat&lt;/code&gt; 上的二元关系    :  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;le_trans : ∀m n o, m ≤ n → n ≤ o → m ≤ o&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;二元关系 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reg_exp × list T&lt;/code&gt; 证明 二元关系 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reg_exp × T&lt;/code&gt;:  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in_re_match : ∀T (s : list T) (x : T) (re : reg_exp), s =~ re → In x s → In x (re_chars re).&lt;/code&gt; 
+都是如此，&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;因此我们也不希望生成的归纳假设是包括证据的…
+原来的归纳假设：&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;  ∀P : (∀n : nat, even n → Prop),
+  ... →
+  ∀(n : nat) (E : even n), P n E
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;可以被简化为只对 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nat&lt;/code&gt; 参数化的归纳假设：&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;  ∀P : nat → Prop,
+  ... →
+  ∀(n : nat) (E: even n), P n
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;因此 coq 生成的归纳原理也是不包括证据的。注意 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;P&lt;/code&gt; 丢弃了参数 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;no&quot;&gt;even_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;even&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;用人话说就是：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;P 对 0 成立，&lt;/li&gt;
+  &lt;li&gt;对任意 n，如果 n 是偶数且 P 对 n 成立，那么 P 对 S (S n) 成立。
+=&amp;gt; P 对所有偶数成立&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;general-parameter&quot;&gt;“General Parameter”&lt;/h3&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le_n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;               &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le_S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;Inductive&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;→&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le_n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le_S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;H&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;两者虽然等价，但是共同的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;∀ n&lt;/code&gt; 可以被提升为 typecon 的参数, i.e. “General Parameter” to the whole definition.&lt;/p&gt;
+
+&lt;p&gt;其生成的归纳假设也会不同: (after renaming)&lt;/p&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;no&quot;&gt;le_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;le&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-coq highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;no&quot;&gt;le_ind&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;Prop&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;∀&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;nat&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;no&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The 1st one looks more symmetric but 2nd one is easier (for proving things).&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/01/10/sf-lf-10-ind-principle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/10/sf-lf-10-ind-principle/</guid>
         
         <category>LF (逻辑基础)</category>
         
