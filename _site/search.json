@@ -1,0 +1,171 @@
+[
+  
+    {
+      "title"    : "中国高等教育的系统性失败",
+      "subtitle" : "The Systematic Failure of Higher Education in China",
+      "tags"     : "被夹",
+      "url"      : "/2021/01/19/the-systematic-failure-of-higher-education-in-china/",
+      "date"     : "2021-01-19 20:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "My Programming Languages Spectrum",
+      "subtitle" : "我的编程语言光谱",
+      "tags"     : "",
+      "url"      : "/2020/05/05/pl-chart/",
+      "date"     : "2020-05-05 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Peter John Landin",
+      "subtitle" : "「计算机科学偶像」- 彼得·约翰·兰丁",
+      "tags"     : "CS Idols",
+      "url"      : "/2019/09/13/peter-john-landin/",
+      "date"     : "2019-09-13 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "My Spacemacs Workflow",
+      "subtitle" : "From Vim to Spacemacs",
+      "tags"     : "Vim, Emacs",
+      "url"      : "/2019/09/08/spacemacs-workflow/",
+      "date"     : "2019-09-08 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "把「终端下的 Vim」作为 macOS Finder 的打开方式",
+      "subtitle" : "Open file with terminal Vim from the macOS Finder",
+      "tags"     : "Vim",
+      "url"      : "/2019/09/03/vim-from-finder/",
+      "date"     : "2019-09-03 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」16 Auto",
+      "subtitle" : "Logical Foundations - More Automation",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/16/sf-lf-16-auto/",
+      "date"     : "2019-01-16 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」15 Extraction",
+      "subtitle" : "Logical Foundations - Extracting ML From Coq",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/15/sf-lf-15-extraction/",
+      "date"     : "2019-01-15 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」14 ImpCEvalFun",
+      "subtitle" : "Logical Foundations - An Evaluation Function For Imp",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/14/sf-lf-14-imp-ceval/",
+      "date"     : "2019-01-14 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」13 ImpParser",
+      "subtitle" : "Logical Foundations - Lexing And Parsing In Coq",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/13/sf-lf-13-imp-parser/",
+      "date"     : "2019-01-13 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」12 Imp",
+      "subtitle" : "Logical Foundations - Simple Imperative Programs",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/12/sf-lf-12-imp/",
+      "date"     : "2019-01-12 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」11 Rel",
+      "subtitle" : "Logical Foundations - Properties of Relations",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/11/sf-lf-11-rel/",
+      "date"     : "2019-01-11 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」10 IndPrinciples",
+      "subtitle" : "Logical Foundations - Induction Principles",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/10/sf-lf-10-ind-principle/",
+      "date"     : "2019-01-10 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」9 ProofObjects",
+      "subtitle" : "Logical Foundations - The Curry-Howard Correspondence ",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/09/sf-lf-09-proof-object/",
+      "date"     : "2019-01-09 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」8 Maps",
+      "subtitle" : "Logical Foundations - Total and Partial Maps",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/08/sf-lf-08-map/",
+      "date"     : "2019-01-08 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」7 Ind Prop",
+      "subtitle" : "Logical Foundations - Inductively Defined Propositions (归纳定义命题)",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/07/sf-lf-07-indprop/",
+      "date"     : "2019-01-07 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」6 Logic",
+      "subtitle" : "Logical Foundations - Logic in Coq",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/06/sf-lf-06-logic/",
+      "date"     : "2019-01-06 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」5 Tactics",
+      "subtitle" : "Logical Foundations - More Basic Tactics",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/05/sf-lf-05-tactics/",
+      "date"     : "2019-01-05 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」4 Poly",
+      "subtitle" : "Logical Foundations - Polymorphism and Higher-Order Functions",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/04/sf-lf-04-poly/",
+      "date"     : "2019-01-04 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」3 List",
+      "subtitle" : "Logical Foundations - Working with Structured Data",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/03/sf-lf-03-list/",
+      "date"     : "2019-01-03 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」2 Induction",
+      "subtitle" : "Logical Foundations - Proof by Induction",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/02/sf-lf-02-induction/",
+      "date"     : "2019-01-02 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "「SF-LC」1 Basics",
+      "subtitle" : "Logical Foundations - Functional Programming in Coq",
+      "tags"     : "LF (逻辑基础), SF (软件基础), Coq, 笔记",
+      "url"      : "/2019/01/01/sf-lf-01-basics/",
+      "date"     : "2019-01-01 00:00:00 +0800"
+    } 
+  
+]
