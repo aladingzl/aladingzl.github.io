@@ -3,9 +3,9 @@ title: aladingzl Blog
 SEOTitle: aladingzl 的博客 | aladingzl Blog
 header-img: img/home-bg.jpg
 email: zhaolongding@foxmail.com
-description: "FE | aladingzl | 这里是 @aladingzl 的个人博客"
+description: "FE | aladingzl | 这里是我的个人博客"
 keyword: "丁兆龙, 丁兆龙的博客, aladingzl, Dzl Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
-url: "https://aladingzl.github.io/"              # your host, for absolute URL
+url: "https://oopss.cn/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
