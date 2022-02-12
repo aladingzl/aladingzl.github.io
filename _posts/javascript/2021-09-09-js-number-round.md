@@ -2,7 +2,7 @@
 layout:     post
 title:      "JS 取整方法整理"
 subtitle:   ""
-date:       2021-9-9
+date:       2021-09-09
 author:     "aladingzl"
 header-style: text
 tags:
@@ -117,7 +117,7 @@ console.log(2 & 1)    // 0
 console.log(3 & 1)    // 1
 ```
 
-使用~, >>, <<, >>>, |来取整
+使用( ~, >>, <<, >>>, | )来取整
 
 ```javascript
 console.log(~~ 6.83)    // 6
@@ -140,7 +140,7 @@ console.log(a)   // 8
 console.log(b)   // 5
 ```
 
-使用&, >>, |来完成 rgb 值和16 进制颜色值之间的转换
+使用(&, >>, |)来完成 rgb 值和16 进制颜色值之间的转换
 
 ```javascript
 /**
