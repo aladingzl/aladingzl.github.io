@@ -183,12 +183,6 @@ console.log(newArr);
 
 **reduce** 函数接收参数
 
-- 
-
-1. 
-
-- 
-
 - Accumulator (acc) (累计器)
 - Current Value (cur) (当前值)
 - Current Index (idx) (当前索引)
