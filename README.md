@@ -1,63 +1,17 @@
-[Hux Blog](https://huangxuan.me)
-================================
+### Hi there 👋 I'm aladingzl !
 
-> I never expect this becomes popular.
+- 🔭  Junior Software Engineering in progress
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+- 🌱  New to front-end
 
+- 🤔  JavaScript / HTML / CSS / Vue
 
-[User Manual 👉](_doc/Manual.md)
---------------------------------------------------
+- 📫  How to reach me: 2414151633@qq.com
 
-### Getting Started
+### 关于博客
 
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+我前期陆陆续续用过很多种博客类型，像 WordPress、Hexo、VuePress 等等，但都没有很好的利用下去，哈哈，像最初的时候就是要很炫酷的那种，各种动画特效啥的，后面渐渐的倦了，开始用一些极简的主题，最终用了 Jekyll + GitHub Pages ，该博客主题是取自 [黄玄](https://github.com/Huxpro/huxpro.github.io) 大佬，自己只是做了简单的修改部署，有兴趣的小伙伴可以自行前往学习。
 
-2. Installed dependencies in the `Gemfile`:
+折腾了挺久的博客，说一下感悟吧！其实博客关键不在于样式怎样，更多的是一种载体吧，最重要的还是自己对学习内容的高质量输出，当然目前我还做不到 :smile:
+目前的博客内容主要还是笔记内容的整理记录，如果有小伙伴还没有建立博客，或者想做在线笔记的话，在这里强烈推荐一波 Notion，绝对超乎想象！
 
-```sh
-$ bundle install 
-```
-
-3. Serve the website (`localhost:4000` by default):
-
-```sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
-
-### Development (Build From Source)
-
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
-
-Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
-
-Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
-
-This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
-
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
-
-License
--------
-
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
