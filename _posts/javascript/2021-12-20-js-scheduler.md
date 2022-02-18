@@ -9,7 +9,6 @@ tags:
     - JavaScript
     - 手撕代码
 ---
-
 ### 题目要求
 
 ```javascript
@@ -55,7 +54,7 @@ addTask(400, '4')
 
 ### 代码实现及思路
 
-```
+```javascript
 class Scheduler {
   constructor(limit) {
     // 最大可并发任务数
@@ -119,4 +118,5 @@ schedule.add(asyncFactory(6, 2000)).then((n) => {
 
 
 **Link**
+
 https://github.com/Yuanyuanyuanc/aYuan-learning-notes/issues/2
